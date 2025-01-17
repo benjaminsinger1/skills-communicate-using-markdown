@@ -8,3 +8,6 @@ description that states we have made changes to the file
 int i = 1;
 cout << i+1
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
